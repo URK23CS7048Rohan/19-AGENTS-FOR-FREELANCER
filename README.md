@@ -23,8 +23,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/URK23CS7048Rohan/AGENTS-FOR-FREELANCER--19/issues/new?template=1-get-agencyos.yml"><img src="https://img.shields.io/badge/I%20want%20AgencyOS-contact%20me-f2661f?style=for-the-badge" alt="I want AgencyOS: contact me"></a>
-  <a href="https://github.com/URK23CS7048Rohan/AGENTS-FOR-FREELANCER--19/issues/new?template=2-hire-me.yml"><img src="https://img.shields.io/badge/Hire%20me-for%20a%20build-2a46c9?style=for-the-badge" alt="Hire me for a build"></a>
+  <a href="https://github.com/URK23CS7048Rohan/19-AGENTS-FOR-FREELANCER/issues/new?template=1-get-agencyos.yml"><img src="https://img.shields.io/badge/I%20want%20AgencyOS-contact%20me-f2661f?style=for-the-badge" alt="I want AgencyOS: contact me"></a>
+  <a href="https://github.com/URK23CS7048Rohan/19-AGENTS-FOR-FREELANCER/issues/new?template=2-hire-me.yml"><img src="https://img.shields.io/badge/Hire%20me-for%20a%20build-2a46c9?style=for-the-badge" alt="Hire me for a build"></a>
   <a href="mailto:rohanch0804@gmail.com?subject=AgencyOS"><img src="https://img.shields.io/badge/Email-rohanch0804%40gmail.com-cf2a1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email rohanch0804@gmail.com"></a>
 </p>
 
@@ -178,13 +178,13 @@ short form, or email me directly at **[rohanch0804@gmail.com](mailto:rohanch0804
 
 | You are | You'd like | |
 |---|---|---|
-| A **freelancer** or **agency** | to run your client work with AgencyOS, or a live walkthrough | [**Request AgencyOS →**](https://github.com/URK23CS7048Rohan/AGENTS-FOR-FREELANCER--19/issues/new?template=1-get-agencyos.yml) |
-| An **evaluator, recruiter or investor** | code access or a demo | [**Request access →**](https://github.com/URK23CS7048Rohan/AGENTS-FOR-FREELANCER--19/issues/new?template=1-get-agencyos.yml) |
-| A **business** | a website, AI chatbot, automation, CRM or ML model built for you | [**Hire me →**](https://github.com/URK23CS7048Rohan/AGENTS-FOR-FREELANCER--19/issues/new?template=2-hire-me.yml) |
+| A **freelancer** or **agency** | to run your client work with AgencyOS, or a live walkthrough | [**Request AgencyOS →**](https://github.com/URK23CS7048Rohan/19-AGENTS-FOR-FREELANCER/issues/new?template=1-get-agencyos.yml) |
+| An **evaluator, recruiter or investor** | code access or a demo | [**Request access →**](https://github.com/URK23CS7048Rohan/19-AGENTS-FOR-FREELANCER/issues/new?template=1-get-agencyos.yml) |
+| A **business** | a website, AI chatbot, automation, CRM or ML model built for you | [**Hire me →**](https://github.com/URK23CS7048Rohan/19-AGENTS-FOR-FREELANCER/issues/new?template=2-hire-me.yml) |
 
 <p align="center">
-  <a href="https://github.com/URK23CS7048Rohan/AGENTS-FOR-FREELANCER--19/issues/new?template=1-get-agencyos.yml"><img src="https://img.shields.io/badge/I%20want%20AgencyOS-contact%20me-f2661f?style=for-the-badge" alt="I want AgencyOS: contact me"></a>
-  <a href="https://github.com/URK23CS7048Rohan/AGENTS-FOR-FREELANCER--19/issues/new?template=2-hire-me.yml"><img src="https://img.shields.io/badge/Hire%20me-for%20a%20build-2a46c9?style=for-the-badge" alt="Hire me for a build"></a>
+  <a href="https://github.com/URK23CS7048Rohan/19-AGENTS-FOR-FREELANCER/issues/new?template=1-get-agencyos.yml"><img src="https://img.shields.io/badge/I%20want%20AgencyOS-contact%20me-f2661f?style=for-the-badge" alt="I want AgencyOS: contact me"></a>
+  <a href="https://github.com/URK23CS7048Rohan/19-AGENTS-FOR-FREELANCER/issues/new?template=2-hire-me.yml"><img src="https://img.shields.io/badge/Hire%20me-for%20a%20build-2a46c9?style=for-the-badge" alt="Hire me for a build"></a>
   <a href="mailto:rohanch0804@gmail.com?subject=AgencyOS"><img src="https://img.shields.io/badge/Email-rohanch0804%40gmail.com-cf2a1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email rohanch0804@gmail.com"></a>
 </p>
 
@@ -232,4 +232,4 @@ designs here may not be copied, reused or redistributed without written permissi
 Built by [Rohan](https://github.com/URK23CS7048Rohan) for freelancers everywhere. Collage artwork is used with the
 owners' permission and belongs to them; see [ART-CREDITS.md](ART-CREDITS.md).
 
-<p align="center"><b>If AgencyOS is the agency you wish you had, give it a star, and <a href="https://github.com/URK23CS7048Rohan/AGENTS-FOR-FREELANCER--19/issues/new?template=1-get-agencyos.yml">tell me</a> you want it.</b></p>
+<p align="center"><b>If AgencyOS is the agency you wish you had, give it a star, and <a href="https://github.com/URK23CS7048Rohan/19-AGENTS-FOR-FREELANCER/issues/new?template=1-get-agencyos.yml">tell me</a> you want it.</b></p>
