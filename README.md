@@ -2,7 +2,7 @@
   <img src="docs/images/banner.jpg" alt="AgencyOS: a freelancer's whole agency, run by 19 AI agents" width="100%">
 </p>
 
-<h3 align="center">A freelancer's whole agency, run by 19 AI agents.<br>They find clients, build the website before you pitch, call, quote, plan and chase the money.<br>You just approve.</h3>
+<h3 align="center">A freelancer's whole agency, run by 19 AI agents.<br>The agents find your clients, build their new website, pitch it, call them, quote, plan the work<br>and chase the payment. All of it, for you. You just approve.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/agents-19-f2661f" alt="19 agents">
@@ -52,7 +52,7 @@ Mistri Murugan builds it, Pitch-Perfect Priya drafts the pitch. Whole run: **5,2
 <table>
 <tr>
 <td width="33%" valign="top"><img src="docs/images/icon-find.png" width="64" height="64" alt=""><br><b>Finds clients</b><br><sub>Real businesses from the map, every website audited on 20 checks, ranked by how badly they need you.</sub></td>
-<td width="33%" valign="top"><img src="docs/images/icon-build.png" width="64" height="64" alt=""><br><b>Builds before it pitches</b><br><sub>A fact-checked preview of the client's new website, so the pitch is <i>"I already made it for you"</i>.</sub></td>
+<td width="33%" valign="top"><img src="docs/images/icon-build.png" width="64" height="64" alt=""><br><b>Builds before it pitches</b><br><sub>The agents build a fact-checked preview of the client's new website first, so their pitch is <i>"we already made it for you"</i>.</sub></td>
 <td width="33%" valign="top"><img src="docs/images/icon-talk.png" width="64" height="64" alt=""><br><b>Talks like a human</b><br><sub>WhatsApp and email drafts, reply reading, polite follow-ups, and an AI voice caller in English, Tamil and Hindi.</sub></td>
 </tr>
 <tr>
