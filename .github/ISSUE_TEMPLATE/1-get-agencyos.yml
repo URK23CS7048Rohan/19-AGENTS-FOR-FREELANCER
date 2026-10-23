@@ -1,0 +1,49 @@
+name: I want AgencyOS
+description: Use AgencyOS for your freelance work or agency, license it, or get code access for an evaluation.
+title: "[AgencyOS] "
+labels: ["access request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for your interest in **AgencyOS**! Tell me a little about you and I'll get back to you on this issue.
+        **Heads up:** issues are public. Don't post a phone number or email unless you're happy for anyone to see it;
+        your GitHub username is enough for me to reach you.
+  - type: dropdown
+    id: want
+    attributes:
+      label: What would you like?
+      options:
+        - Use AgencyOS for my own freelance work
+        - Use AgencyOS for my agency or team
+        - A live demo / walkthrough
+        - Code access to evaluate the project (college, recruiter, investor)
+        - Partnership or collaboration
+        - Something else
+    validations:
+      required: true
+  - type: input
+    id: who
+    attributes:
+      label: Who are you?
+      description: Your name, and your business, college or company.
+      placeholder: "Priya, freelance web designer in Chennai"
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Tell me more
+      description: What you do today, what you'd use AgencyOS for, how many clients or leads you handle.
+    validations:
+      required: true
+  - type: dropdown
+    id: reach
+    attributes:
+      label: Best way to reach you
+      options:
+        - Reply on this issue
+        - Email (or write to me directly: rohanch0804@gmail.com)
+        - WhatsApp (I'll share it privately when you reply)
+    validations:
+      required: true

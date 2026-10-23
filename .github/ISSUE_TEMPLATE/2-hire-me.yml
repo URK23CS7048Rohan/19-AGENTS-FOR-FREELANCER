@@ -1,0 +1,51 @@
+name: Hire me for a build
+description: A custom website, AI chatbot, automation, CRM or ML model, built by the team behind AgencyOS.
+title: "[Build] "
+labels: ["hire"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Need something built? Describe it and I'll reply with questions, a quote and a timeline.
+        **Heads up:** issues are public, so keep private details (phone, budgets you'd rather not share) for later.
+  - type: dropdown
+    id: service
+    attributes:
+      label: What do you need?
+      multiple: true
+      options:
+        - Website
+        - AI chatbot / assistant (WhatsApp, website)
+        - Automation (n8n, Google Sheets, WhatsApp)
+        - CRM
+        - ML model
+        - Something custom
+    validations:
+      required: true
+  - type: textarea
+    id: brief
+    attributes:
+      label: Your brief
+      description: What it should do, who it's for, anything you already have (domain, logo, data).
+    validations:
+      required: true
+  - type: input
+    id: deadline
+    attributes:
+      label: Deadline (optional)
+      placeholder: "before 5 November"
+  - type: input
+    id: budget
+    attributes:
+      label: Budget (optional)
+      placeholder: "around ₹15,000"
+  - type: dropdown
+    id: reach
+    attributes:
+      label: Best way to reach you
+      options:
+        - Reply on this issue
+        - Email (or write to me directly: rohanch0804@gmail.com)
+        - WhatsApp (I'll share it privately when you reply)
+    validations:
+      required: true
