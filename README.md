@@ -66,7 +66,14 @@ Websites are just the start: the playbooks also cover **AI chatbots, n8n automat
 
 ### It builds the website before it pitches
 
-<p align="center"><img src="docs/images/site-built.jpg" alt="Desktop and phone preview the agents built for a real café, scored 36 → 100" width="100%"></p>
+<p align="center"><img src="docs/images/site-built.jpg" alt="Websites the agents build: a design sample on desktop and phone, and two real previews" width="100%"></p>
+
+<p align="center"><img src="docs/images/site-in-motion.gif" alt="The signature design in motion: animated hero, scrolling strips, menu cards, polaroids" width="80%"><br>
+<sub>The signature design in motion. <b>Kaapi Kadai is a design sample</b> (a fictional café with free-licensed stock photos); real previews use the business's own photos and facts, and fall back to illustrations when there are none.</sub></p>
+
+Every preview uses the agency's **signature design**: a giant retro wordmark, highlight-block headlines, a hand-drawn
+sticker, a scrolling ornament strip, menu cards, polaroids that drop in as you scroll, a live "open now" badge from the real
+opening hours, and floating call and WhatsApp buttons. It stays fast and mobile-first, and scores the same on the 20 audit checks.
 
 The Researcher turns the business's real website (or map listing) into verified facts, the Copywriter writes from those facts
 only, and two checkers (rules, then an LLM whose complaints are themselves verified in code) strip anything invented.
